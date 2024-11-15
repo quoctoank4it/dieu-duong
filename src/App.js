@@ -20,8 +20,6 @@ const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
 
   const openSideBar = (value) => {
-    console.log(value);
-
     setIsOpenSideBar(value);
   };
 
@@ -64,7 +62,6 @@ const App = () => {
             className={window.innerWidth > 500 ? "content" : ""}
             style={{ marginTop: 71 }}
           >
-            {/* Define each section with an id to scroll to */}
             <A1_0_DauHieuSinhTon />
             <A1_1_Mach />
             <A1_2_NhietDo />
@@ -87,7 +84,7 @@ const App = () => {
           left: window.innerWidth > 500 ? window.innerWidth / 2 - 30 : 20,
         }}
       >
-        <img src={icon} style={{ width: 40, height: 40 }}></img>
+        <img src={icon} style={{ width: 20, height: 20 }}></img>
       </button>
     </div>
   );

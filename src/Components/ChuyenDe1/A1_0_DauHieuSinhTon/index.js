@@ -31,7 +31,8 @@ const A1_0_DauHieuSinhTon = ({}) => {
           display: "flex",
           width: "100%",
           justifyContent: "center",
-          padding: 10,
+          paddingTop: 10,
+          paddingBottom: 10,
         }}
       >
         <span
