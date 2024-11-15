@@ -57,10 +57,10 @@ const SideBar = ({ openSideBar }) => {
     },
     {
       title: "II. Một số khái niệm và quy định của ĐD-HS-KTV",
-      id: "section2",
+      id: "section2-1",
       children: [
         { title: "1. Khái niệm phân cấp chăm sóc", id: "section2-1" },
-        { title: "2. 12 Nhiệm vụ chuyên môn", id: "section2-2" },
+        { title: "2. 12 Nhiệm vụ chuyên môn chăm sóc BN", id: "section2-2" },
       ],
     },
     {
