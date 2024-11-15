@@ -31,7 +31,10 @@ const App = () => {
   };
 
   return (
-    <div className={window.innerWidth > 500 ? "All-center" : ""}>
+    <div
+      className={window.innerWidth > 500 ? "All-center" : ""}
+      style={{ background: "#faebd7" }}
+    >
       <div
         className="App"
         style={{ width: window.innerWidth > 500 ? 800 : "100%" }}
