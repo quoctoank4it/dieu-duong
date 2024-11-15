@@ -80,7 +80,13 @@ const App = () => {
           </div>
         </div>
       </div>
-      <button className="scroll-to-top" onClick={scrollToTop}>
+      <button
+        className="scroll-to-top"
+        onClick={scrollToTop}
+        style={{
+          left: window.innerWidth > 500 ? window.innerWidth / 2 - 30 : 20,
+        }}
+      >
         <img src={icon} style={{ width: 40, height: 40 }}></img>
       </button>
     </div>
