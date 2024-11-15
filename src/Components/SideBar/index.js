@@ -49,6 +49,10 @@ const SideBar = ({ openSideBar }) => {
           title: "4. Đánh giá tình trạng đau",
           id: "section1-4",
         },
+        {
+          title: "5. Thang điểm Glasgrow",
+          id: "section1-5",
+        },
       ],
     },
     {

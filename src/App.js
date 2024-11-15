@@ -15,6 +15,7 @@ import A3_2_ThangDiem from "./Components/ChuyenDe1/A3_2_ThangDiem";
 import A3_3_DuPhongLoet from "./Components/ChuyenDe1/A3_3_DuPhongLoet";
 import A1_3_4_ViTriLoet from "./Components/ChuyenDe1/A3_4_TuTheLoet";
 import A4_0_DanhGiaTinhTrangDau from "./Components/ChuyenDe1/A4_0_DanhGiaTinhTrangDau";
+import A5_0_ThangDiemGlasgrow from "./Components/ChuyenDe1/A5_0_ThangDiemGlasgrow";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -77,6 +78,7 @@ const App = () => {
             <A3_3_DuPhongLoet />
             <A1_3_4_ViTriLoet />
             <A4_0_DanhGiaTinhTrangDau />
+            <A5_0_ThangDiemGlasgrow />
           </div>
         </div>
       </div>

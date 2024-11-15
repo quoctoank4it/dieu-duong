@@ -1,0 +1,42 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: left;
+  color: #d54101;
+  font-size: 18px;
+}
+
+.assessment-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.assessment-table th,
+.assessment-table td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.assessment-table th {
+  background-color: #3498db;
+  color: #fff;
+  font-weight: bold;
+}
+
+.assessment-table .category {
+  font-weight: bold;
+  color: #d9534f;
+}
+
+.assessment-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
