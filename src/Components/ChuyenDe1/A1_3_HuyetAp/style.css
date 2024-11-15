@@ -1,0 +1,42 @@
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  text-align: left;
+  color: #d54101;
+  font-size: 18px;
+}
+.blood-pressure-table {
+  width: 100%;
+  max-width: 600px;
+  border-collapse: collapse;
+  margin-bottom: 10px;
+}
+
+.blood-pressure-table th {
+  background-color: #f8b84e;
+  color: #000;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.blood-pressure-table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.blood-pressure-table .highlight {
+  background-color: #f0e68c;
+  font-weight: bold;
+}
+
+.note {
+  font-style: italic;
+  color: #555;
+}
