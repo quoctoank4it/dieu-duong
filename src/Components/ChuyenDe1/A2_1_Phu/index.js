@@ -5,7 +5,7 @@ import PhuTay from "../Images/phutay.jpg";
 const A2_1_Phu = ({}) => {
   return (
     <div id="section1-2" className="section">
-      <div class="container">
+      <div className="container">
         <h2>2. NHẬN ĐỊNH TÌNH TRẠNG PHÙ DA, NIÊM MẠC</h2>
         <h1>2.1 Phù</h1>
         <div
@@ -37,7 +37,7 @@ const A2_1_Phu = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <ul>
               <li>
                 Định nghĩa: Phù là sự tích tụ quá nhiều chất lỏng dư thừa trong

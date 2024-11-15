@@ -5,7 +5,7 @@ import ViTriDoHuyetApp from "../Images/vitridohuyetap.jpg";
 const A1_3_HuyetAp = ({}) => {
   return (
     <div id="section1-1-3" className="section">
-      <div class="container">
+      <div className="container">
         <h2>1.3. HUYẾT ÁP (mmHg)</h2>
         <div
           style={{
@@ -22,7 +22,7 @@ const A1_3_HuyetAp = ({}) => {
             alt=""
           ></img>
         </div>
-        <table class="blood-pressure-table">
+        <table className="blood-pressure-table">
           <tr>
             <th>Khái niệm</th>
             <th>Huyết áp tâm thu (mmHg)</th>
@@ -47,7 +47,7 @@ const A1_3_HuyetAp = ({}) => {
             <td>và/hoặc</td>
             <td>85-89</td>
           </tr>
-          <tr class="highlight">
+          <tr className="highlight">
             <td colspan="4">Tăng huyết áp</td>
           </tr>
           <tr>
@@ -69,7 +69,7 @@ const A1_3_HuyetAp = ({}) => {
             <td>&gt; 110</td>
           </tr>
         </table>
-        <p class="note">
+        <p className="note">
           Phân loại Tăng huyết áp theo WHO-ISH và khuyến cáo của Hội Tim Mạch
           Việt Nam
         </p>
@@ -95,7 +95,7 @@ const A1_3_HuyetAp = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <h2>Công thức tính huyết áp</h2>
             <ul>
               <li style={{ listStyle: "none" }}>

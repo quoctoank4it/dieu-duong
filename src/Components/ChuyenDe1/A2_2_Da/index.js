@@ -7,7 +7,7 @@ import DaVang from "../Images/davang.webp";
 const A2_2_Da = ({}) => {
   return (
     <div id="section1-2-2" className="section">
-      <div class="container">
+      <div className="container">
         <h2>2.2. DA</h2>
         <div
           style={{
@@ -16,7 +16,7 @@ const A2_2_Da = ({}) => {
             justifyContent: "center",
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <img
               src={DaXuatHuyet}
               width={250}
@@ -39,7 +39,7 @@ const A2_2_Da = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <img
               src={DaNoiMeDay}
               width={250}
@@ -62,7 +62,7 @@ const A2_2_Da = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <img
               src={DaXanh}
               width={250}
@@ -84,7 +84,7 @@ const A2_2_Da = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <img
               src={DaVang}
               width={250}

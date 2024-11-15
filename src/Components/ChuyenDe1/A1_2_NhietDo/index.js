@@ -4,9 +4,9 @@ import NhietDo from "../Images/nhietdo.webp";
 const A1_2_NhietDo = ({}) => {
   return (
     <div id="section1-1-2" className="section">
-      <div class="container">
+      <div className="container">
         <h2>1.2. NHIỆT ĐỘ: ĐỌC VÀ PHÂN TÍCH KẾT QUẢ</h2>
-        <table class="pulse-table">
+        <table className="pulse-table">
           <thead>
             <tr>
               <th>Phân độ</th>
@@ -62,7 +62,7 @@ const A1_2_NhietDo = ({}) => {
             justifyContent: "center",
           }}
         >
-          <div class="card">
+          <div className="card">
             <h2>MỤC ĐÍCH ĐO NHIỆT ĐỘ</h2>
             <ul>
               <li>Xác định tình trạng sức khoẻ dựa trên hằng số sinh lý.</li>
@@ -82,7 +82,7 @@ const A1_2_NhietDo = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card">
+          <div className="card">
             <h2>CHÚ Ý ĐO NHIỆT ĐỘ</h2>
             <ul>
               <li>Trước khi đo nhiệt độ nên nghỉ ngơi 15 phút.</li>

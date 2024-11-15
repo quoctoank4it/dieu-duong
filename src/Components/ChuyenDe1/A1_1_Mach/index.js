@@ -4,7 +4,7 @@ import Mach from "../Images/mach.webp";
 const A1_1_Mach = ({}) => {
   return (
     <div id="section1-1-1" className="section">
-      <div class="container">
+      <div className="container">
         <h2>1.1. MẠCH (lần/phút)</h2>
         <div
           style={{
@@ -16,7 +16,7 @@ const A1_1_Mach = ({}) => {
         >
           <img src={Mach} width={150} style={{ borderRadius: 10 }} alt=""></img>
         </div>
-        <table class="pulse-table">
+        <table className="pulse-table">
           <thead>
             <tr>
               <th>Đối tượng</th>

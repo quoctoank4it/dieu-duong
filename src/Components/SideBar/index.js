@@ -27,12 +27,27 @@ const SideBar = ({ openSideBar }) => {
           ],
         },
         {
-          title: "3. Nhận định và phân loại vết loét",
+          title: "3. Loét",
           id: "section1-3",
           children: [
-            { title: "3.1 Nhận định phân độ vết loét", id: "section1-3-1" },
-            { title: "3.2 Thang điểm", id: "section1-3-2" },
+            { title: "3.1 Nhận định và phân độ vết loét", id: "section1-3" },
+            {
+              title: "3.2 Thang điểm BRADEN dự đoán nguye cơ loét",
+              id: "section1-3-2",
+            },
+            {
+              title: "3.3 Dự phòng loét",
+              id: "section1-3-3",
+            },
+            {
+              title: "3.4 Các vị trí dễ bị loét",
+              id: "section1-3-4",
+            },
           ],
+        },
+        {
+          title: "4. Đánh giá tình trạng đau",
+          id: "section1-4",
         },
       ],
     },

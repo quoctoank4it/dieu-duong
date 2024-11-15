@@ -4,9 +4,9 @@ import NhipTho from "../Images/nhiptho.webp";
 const A1_4_NhipTho = ({}) => {
   return (
     <div id="section1-1-4" className="section">
-      <div class="container">
+      <div className="container">
         <h2>1.4. NHỊP THỞ</h2>
-        <table class="pulse-table">
+        <table className="pulse-table">
           <thead>
             <tr>
               <th>Đối tượng</th>
@@ -65,7 +65,7 @@ const A1_4_NhipTho = ({}) => {
             marginTop: 10,
           }}
         >
-          <div class="card" style={{ width: "100%" }}>
+          <div className="card" style={{ width: "100%" }}>
             <h2>Chú ý:</h2>
             <ul>
               <li>Trước khi đếm nhịp thở người bệnh nằm nghỉ 15 phút.</li>
