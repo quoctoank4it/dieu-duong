@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dieu-duong/static/css/main.678b7612.css",
+    "main.css": "/dieu-duong/static/css/main.ca75ab22.css",
     "main.js": "/dieu-duong/static/js/main.6e188cbf.js",
     "static/js/453.906146e1.chunk.js": "/dieu-duong/static/js/453.906146e1.chunk.js",
     "static/media/vitriloet.png": "/dieu-duong/static/media/vitriloet.0416c711f6b77ee6a403.png",
@@ -22,12 +22,12 @@
     "static/media/vitridohuyetap.jpg": "/dieu-duong/static/media/vitridohuyetap.8803799b1d5dd00102a3.jpg",
     "static/media/phutay.jpg": "/dieu-duong/static/media/phutay.20f9ee0a6775dcad9130.jpg",
     "index.html": "/dieu-duong/index.html",
-    "main.678b7612.css.map": "/dieu-duong/static/css/main.678b7612.css.map",
+    "main.ca75ab22.css.map": "/dieu-duong/static/css/main.ca75ab22.css.map",
     "main.6e188cbf.js.map": "/dieu-duong/static/js/main.6e188cbf.js.map",
     "453.906146e1.chunk.js.map": "/dieu-duong/static/js/453.906146e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.678b7612.css",
+    "static/css/main.ca75ab22.css",
     "static/js/main.6e188cbf.js"
   ]
 }
