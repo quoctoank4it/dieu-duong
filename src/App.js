@@ -2,6 +2,7 @@ import "./App.css";
 import React, { useState } from "react";
 import SideBar from "./Components/SideBar";
 import Menu from "./Components/Menu";
+import icon from "./topicon.png";
 import A1_0_DauHieuSinhTon from "./Components/ChuyenDe1/A1_0_DauHieuSinhTon";
 import A1_1_Mach from "./Components/ChuyenDe1/A1_1_Mach";
 import A1_2_NhietDo from "./Components/ChuyenDe1/A1_2_NhietDo";
@@ -22,6 +23,13 @@ const App = () => {
     console.log(value);
 
     setIsOpenSideBar(value);
+  };
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
   };
 
   return (
@@ -72,6 +80,9 @@ const App = () => {
           </div>
         </div>
       </div>
+      <button className="scroll-to-top" onClick={scrollToTop}>
+        <img src={icon} style={{ width: 40, height: 40 }}></img>
+      </button>
     </div>
   );
 };

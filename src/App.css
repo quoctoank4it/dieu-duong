@@ -122,3 +122,23 @@ body {
 .lever2 {
   text-align: left;
 }
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  z-index: 1000;
+  background-color: white;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+  width: 60px;
+  height: 60px;
+  border: 2px solid rgb(0, 0, 0);
+  padding-left: 5.5px;
+}
+
+.scroll-to-top:hover {
+  background-color: white;
+}
