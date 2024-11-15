@@ -20,7 +20,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className={window.innerWidth > 500 ? "All-center" : ""}>
       <div
         className="App"
         style={{ width: window.innerWidth > 500 ? 800 : "100%" }}
@@ -59,32 +59,6 @@ const App = () => {
             <A1_4_NhipTho />
             <A2_1_Phu />
             <A2_2_Da />
-            <div id="section1-3" className="section">
-              Nhận định và phân loại vết loét
-            </div>
-            <div id="section1-3-1" className="section">
-              Nhận định phân độ vết loét
-            </div>
-            <div id="section1-3-2" className="section">
-              Thang điểm
-            </div>
-
-            <div id="section2" className="section">
-              Một số khái niệm và quy định của ĐD-HS-KTV
-            </div>
-            <div id="section2-1" className="section">
-              Khái niệm phân cấp chăm sóc
-            </div>
-            <div id="section2-2" className="section">
-              12 Nhiệm vụ chuyên môn
-            </div>
-
-            <div id="section3" className="section">
-              Kiến thức về thực hành Điều dưỡng
-            </div>
-            <div id="section3-1" className="section">
-              Tiêm an toàn
-            </div>
           </div>
         </div>
       </div>

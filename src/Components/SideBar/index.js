@@ -87,7 +87,7 @@ const SideBar = ({ openSideBar }) => {
   const filteredMenuData = filterMenu(menuData);
 
   return (
-    <div className="sidebar">
+    <div className={window.innerWidth > 500 ? "sidebar" : "Top-lep00 sidebar"}>
       <input
         type="text"
         className="search-input"

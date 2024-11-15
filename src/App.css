@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.All-center {
+  display: flex;
+  justify-content: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -47,14 +52,17 @@ body {
 /* Sidebar styling */
 .sidebar {
   width: 300px;
-  top: 0;
-  left: 0;
   height: 100%;
   background-color: #f8f9fa;
   box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.2);
   padding: 20px;
   position: fixed;
   margin-top: 71px;
+}
+
+.Top-lep00 {
+  top: 0;
+  left: 0;
 }
 
 .search-input {
