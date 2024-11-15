@@ -18,6 +18,7 @@ import A4_0_DanhGiaTinhTrangDau from "./Components/ChuyenDe1/A4_0_DanhGiaTinhTra
 import A5_0_ThangDiemGlasgrow from "./Components/ChuyenDe1/A5_0_ThangDiemGlasgrow";
 import B1_0_PhanCapChamSoc from "./Components/ChuyenDe2/B1_0_PhanCapChamSoc";
 import B2_0_12NhiemVu from "./Components/ChuyenDe2/B2_0_12NhiemVu";
+import B3_0_CacBuoc from "./Components/ChuyenDe2/B3_0_CacBuoc";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -83,6 +84,7 @@ const App = () => {
             <A5_0_ThangDiemGlasgrow />
             <B1_0_PhanCapChamSoc />
             <B2_0_12NhiemVu />
+            <B3_0_CacBuoc />
           </div>
         </div>
       </div>

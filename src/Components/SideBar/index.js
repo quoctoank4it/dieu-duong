@@ -61,6 +61,7 @@ const SideBar = ({ openSideBar }) => {
       children: [
         { title: "1. Khái niệm phân cấp chăm sóc", id: "section2-1" },
         { title: "2. 12 Nhiệm vụ chuyên môn chăm sóc BN", id: "section2-2" },
+        { title: "3. Các bước lập kế hoạch chăm sóc", id: "section2-3" },
       ],
     },
     {
