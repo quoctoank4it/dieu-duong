@@ -68,6 +68,9 @@ const SideBar = ({ openSideBar }) => {
         { title: "7. Quy chế lưu trữ hồ sơ bệnh án", id: "section2-7" },
         { title: "8. Quyền của người bệnh", id: "section2-8" },
         { title: "9. Nghĩa vụ của người bệnh", id: "section2-9" },
+        { title: "10. Nhu cầu cơ bản của người bệnh", id: "section2-10" },
+        { title: "11. Khái niệm về an toàn người bệnh", id: "section2-11" },
+        { title: "12. 6 mục tiêu an toàn người bệnh", id: "section2-12" },
       ],
     },
   ];
@@ -126,7 +129,7 @@ const SideBar = ({ openSideBar }) => {
         }}
       >
         <span>Copyright © 2024</span>
-        <span>luxubudiep@gmail.com</span>
+        <span>Ths Trần Thị Tây Nguyên</span>
       </div>
     </div>
   );
