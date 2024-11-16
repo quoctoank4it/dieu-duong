@@ -30,17 +30,17 @@ const SideBar = ({ openSideBar }) => {
           title: "3. Loét",
           id: "section1-3",
           children: [
-            { title: "3.1 Nhận định và phân độ vết loét", id: "section1-3" },
+            { title: "3.1. Nhận định và phân độ vết loét", id: "section1-3" },
             {
-              title: "3.2 Thang điểm BRADEN dự đoán nguye cơ loét",
+              title: "3.2. Thang điểm BRADEN dự đoán nguye cơ loét",
               id: "section1-3-2",
             },
             {
-              title: "3.3 Dự phòng loét",
+              title: "3.3. Dự phòng loét",
               id: "section1-3-3",
             },
             {
-              title: "3.4 Các vị trí dễ bị loét",
+              title: "3.4. Các vị trí dễ bị loét",
               id: "section1-3-4",
             },
           ],
@@ -67,6 +67,7 @@ const SideBar = ({ openSideBar }) => {
         { title: "6. Quy định thứ tự dán hồ sơ bệnh án", id: "section2-6" },
         { title: "7. Quy chế lưu trữ hồ sơ bệnh án", id: "section2-7" },
         { title: "8. Quyền của người bệnh", id: "section2-8" },
+        { title: "9. Nghĩa vụ của người bệnh", id: "section2-9" },
       ],
     },
   ];
