@@ -56,12 +56,14 @@ const SideBar = ({ openSideBar }) => {
       ],
     },
     {
-      title: "II. Một số khái niệm và quy định của ĐD-HS-KTV",
+      title: "Chuyên đề II: Một số khái niệm và quy định của ĐD-HS-KTV",
       id: "section2-1",
       children: [
         { title: "1. Khái niệm phân cấp chăm sóc", id: "section2-1" },
         { title: "2. 12 Nhiệm vụ chuyên môn chăm sóc BN", id: "section2-2" },
         { title: "3. Các bước lập kế hoạch chăm sóc", id: "section2-3" },
+        { title: "4. 8 Chuẩn đạo đức điều dưỡng", id: "section2-4" },
+        { title: "5. Quy định y lệnh miệng", id: "section2-5" },
       ],
     },
   ];

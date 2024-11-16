@@ -19,6 +19,8 @@ import A5_0_ThangDiemGlasgrow from "./Components/ChuyenDe1/A5_0_ThangDiemGlasgro
 import B1_0_PhanCapChamSoc from "./Components/ChuyenDe2/B1_0_PhanCapChamSoc";
 import B2_0_12NhiemVu from "./Components/ChuyenDe2/B2_0_12NhiemVu";
 import B3_0_CacBuoc from "./Components/ChuyenDe2/B3_0_CacBuoc";
+import B4_0_8ChuanDaoDuc from "./Components/ChuyenDe2/B4_0_8ChuanDaoDuc";
+import B5_0_QuyDinhYLenhMieng from "./Components/ChuyenDe2/B5_0_QuyDinhYLenhMieng";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -85,6 +87,8 @@ const App = () => {
             <B1_0_PhanCapChamSoc />
             <B2_0_12NhiemVu />
             <B3_0_CacBuoc />
+            <B4_0_8ChuanDaoDuc />
+            <B5_0_QuyDinhYLenhMieng />
           </div>
         </div>
       </div>
