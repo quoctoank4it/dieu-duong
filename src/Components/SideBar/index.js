@@ -64,6 +64,9 @@ const SideBar = ({ openSideBar }) => {
         { title: "3. Các bước lập kế hoạch chăm sóc", id: "section2-3" },
         { title: "4. 8 Chuẩn đạo đức điều dưỡng", id: "section2-4" },
         { title: "5. Quy định y lệnh miệng", id: "section2-5" },
+        { title: "6. Quy định thứ tự dán hồ sơ bệnh án", id: "section2-6" },
+        { title: "7. Quy chế lưu trữ hồ sơ bệnh án", id: "section2-7" },
+        { title: "8. Quyền của người bệnh", id: "section2-8" },
       ],
     },
   ];
