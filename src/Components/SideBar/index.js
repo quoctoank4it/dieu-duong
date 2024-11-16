@@ -64,11 +64,6 @@ const SideBar = ({ openSideBar }) => {
         { title: "3. Các bước lập kế hoạch chăm sóc", id: "section2-3" },
       ],
     },
-    {
-      title: "III. Kiến thức về thực hành Điều dưỡng",
-      id: "section3",
-      children: [{ title: "1. Tiêm an toàn", id: "section3-1" }],
-    },
   ];
   // Filter function for search
   const filterMenu = (items) => {
@@ -116,6 +111,17 @@ const SideBar = ({ openSideBar }) => {
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       <MenuItems items={filteredMenuData} openSideBar={openSideBar} />
+      <div
+        style={{
+          display: "grid",
+          textAlign: "left",
+          fontWeight: "bold",
+          fontStyle: "italic",
+        }}
+      >
+        <span>Copyright © 2024</span>
+        <span>luxubudiep@gmail.com</span>
+      </div>
     </div>
   );
 };

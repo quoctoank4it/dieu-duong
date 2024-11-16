@@ -88,15 +88,17 @@ const App = () => {
           </div>
         </div>
       </div>
-      <button
-        className="scroll-to-top"
-        onClick={scrollToTop}
-        style={{
-          left: window.innerWidth > 500 ? window.innerWidth / 2 - 30 : 20,
-        }}
-      >
-        <img src={icon} style={{ width: 20, height: 20 }}></img>
-      </button>
+      {!isOpenSideBar && (
+        <button
+          className="scroll-to-top"
+          onClick={scrollToTop}
+          style={{
+            left: window.innerWidth > 500 ? window.innerWidth / 2 - 30 : 20,
+          }}
+        >
+          <img src={icon} style={{ width: 20, height: 20 }}></img>
+        </button>
+      )}
     </div>
   );
 };
