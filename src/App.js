@@ -63,7 +63,7 @@ const App = () => {
               fontWeight: "bold",
             }}
           >
-            KIẾN THỨC ĐIỀU DƯỠNG
+            SỔ TAY ĐIỀU DƯỠNG
           </span>
         </div>
         <div style={{ display: window.innerWidth > 500 ? "flex" : "" }}>
