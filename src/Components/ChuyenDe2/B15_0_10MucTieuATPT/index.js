@@ -2,7 +2,7 @@ import "./style.css";
 
 const B15_0_10MucTieuATPT = ({}) => {
   return (
-    <div id="section2-12" className="section">
+    <div id="section2-15" className="section">
       <div className="container">
         <h2>15. MUỜI MỤC TIÊU ATPT THEO WHO</h2>
         <div
