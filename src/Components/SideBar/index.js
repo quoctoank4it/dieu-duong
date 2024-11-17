@@ -71,6 +71,18 @@ const SideBar = ({ openSideBar }) => {
         { title: "10. Nhu cầu cơ bản của người bệnh", id: "section2-10" },
         { title: "11. Khái niệm về an toàn người bệnh", id: "section2-11" },
         { title: "12. 6 mục tiêu an toàn người bệnh", id: "section2-12" },
+        {
+          title: "13. Một số nguy cơ gấy mất an toàn trong bệnh viện",
+          id: "section2-13",
+        },
+        {
+          title: "14. Một số sự cố y khoa thường gặp",
+          id: "section2-14",
+        },
+        {
+          title: "15. Mười mục tiêu an toàn phẫu thuật theo khuyến cáo của WHO",
+          id: "section2-15",
+        },
       ],
     },
   ];

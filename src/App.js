@@ -28,6 +28,9 @@ import B9_0_NghiaVuNB from "./Components/ChuyenDe2/B9_0_NghiaVuNB";
 import B10_0_NhuCauNB from "./Components/ChuyenDe2/B10_0_NhuCauNB";
 import B11_0_AnToanNB from "./Components/ChuyenDe2/B11_0_AnToanNB";
 import B12_0_6MucTieu from "./Components/ChuyenDe2/B12_0_6MucTieu";
+import B13_0_NguyCo from "./Components/ChuyenDe2/B13_0_NguyCo";
+import B14_0_SuCo from "./Components/ChuyenDe2/B14_0_SuCo";
+import B15_0_10MucTieuATPT from "./Components/ChuyenDe2/B15_0_10MucTieuATPT";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -103,6 +106,9 @@ const App = () => {
             <B10_0_NhuCauNB />
             <B11_0_AnToanNB />
             <B12_0_6MucTieu />
+            <B13_0_NguyCo />
+            <B14_0_SuCo />
+            <B15_0_10MucTieuATPT />
           </div>
         </div>
       </div>
