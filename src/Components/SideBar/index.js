@@ -95,6 +95,40 @@ const SideBar = ({ openSideBar }) => {
           title: "3. Tai biến, xử trí và cách đề phòng khi tiêm",
           id: "section3-3",
         },
+        {
+          title: "4. Phòng ngừa nguy cơ tai biến khi tiêm",
+          id: "section3-4",
+        },
+        {
+          title: "5. Quy định vệ sinh và sắp xếp xe tiêm",
+          id: "section3-5",
+        },
+        {
+          title: "6. Truyền dịch",
+          id: "section3-6",
+          children: [
+            {
+              title: "6.1. Công thức tính thời gian dịch truyền",
+              id: "section3-6",
+            },
+            {
+              title: "6.2. Bảng tính thời gian truyền dịch hay dùng",
+              id: "section3-6-2",
+            },
+            {
+              title: "6.3. Tai biến và xử trí khi truyền dịch",
+              id: "section3-6-3",
+            },
+            {
+              title: "6.4. Phòng ngừa nguy cơ tai biến do truyền dịch",
+              id: "section3-6-4",
+            },
+          ],
+        },
+        {
+          title: "7. Bảng nguy cơ tai biến và phòng ngừa khi thở oxy",
+          id: "section3-7",
+        },
       ],
     },
   ];

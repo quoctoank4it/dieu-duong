@@ -34,6 +34,12 @@ import B15_0_10MucTieuATPT from "./Components/ChuyenDe2/B15_0_10MucTieuATPT";
 import C1_0_TiemAnToan from "./Components/ChuyenDe3/C1_0_TiemAnToan";
 import C2_0_ViTriTiem from "./Components/ChuyenDe3/C2_0_ViTriTiem";
 import C3_0_TaiBien from "./Components/ChuyenDe3/C3_0_TaiBien";
+import C4_0_PhongNguaTB from "./Components/ChuyenDe3/C4_0_PhongNguaTB";
+import C5_0_XeTiem from "./Components/ChuyenDe3/C5_0_XeTiem";
+import C6_1_TruyenDich from "./Components/ChuyenDe3/C6_1_TruyenDich";
+import C6_2_BangTinhTGTruyenDich from "./Components/ChuyenDe3/C6_2_BangTinhTGTruyenDich";
+import C6_3_TaiBien from "./Components/ChuyenDe3/C6_3_TaiBien";
+import C6_4_PhongNgua from "./Components/ChuyenDe3/C6_4_PhongNgua";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -115,6 +121,12 @@ const App = () => {
             <C1_0_TiemAnToan />
             <C2_0_ViTriTiem />
             <C3_0_TaiBien />
+            <C4_0_PhongNguaTB />
+            <C5_0_XeTiem />
+            <C6_1_TruyenDich />
+            <C6_2_BangTinhTGTruyenDich />
+            <C6_3_TaiBien />
+            <C6_4_PhongNgua />
           </div>
         </div>
       </div>

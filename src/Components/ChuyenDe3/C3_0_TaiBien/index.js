@@ -1,9 +1,4 @@
 import "./style.css";
-import ViTriTiem from "../Images/vitritiem.png";
-import TiemCoDuoi from "../Images/tiemcoduoi.png";
-import ViTriTiemMong from "../Images/vitritiemmong.png";
-import TiemInsulin from "../Images/vttieminsulin.png";
-import CachVeoDaTiemInsulin from "../Images/cachveodatieminsulin.png";
 
 const C3_0_TaiBien = ({}) => {
   return (
