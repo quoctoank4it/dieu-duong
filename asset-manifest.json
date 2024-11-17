@@ -1,16 +1,29 @@
 {
   "files": {
     "main.css": "/dieu-duong/static/css/main.4fc8bffe.css",
-    "main.js": "/dieu-duong/static/js/main.a1e2c18b.js",
+    "main.js": "/dieu-duong/static/js/main.3e495dbe.js",
     "static/js/453.906146e1.chunk.js": "/dieu-duong/static/js/453.906146e1.chunk.js",
+    "static/media/toathuocphuctap.webp": "/dieu-duong/static/media/toathuocphuctap.94ec9150b8aa7d9a2709.webp",
+    "static/media/thaydoinv.webp": "/dieu-duong/static/media/thaydoinv.3fe0d956bf9a2a2d1aa3.webp",
+    "static/media/quataibn.webp": "/dieu-duong/static/media/quataibn.7963406a1247284539e8.webp",
+    "static/media/phauthuat.webp": "/dieu-duong/static/media/phauthuat.56ad8c28e12acc9e68e9.webp",
+    "static/media/dundayviec.webp": "/dieu-duong/static/media/dundayviec.4e0d763cf4b82614e293.webp",
+    "static/media/chidinhdieutrikhongrorang.webp": "/dieu-duong/static/media/chidinhdieutrikhongrorang.eddf7c5f3fa00f16420a.webp",
+    "static/media/capcuukhancap.webp": "/dieu-duong/static/media/capcuukhancap.90f189206abcc5beb403.webp",
     "static/media/vitriloet.png": "/dieu-duong/static/media/vitriloet.0416c711f6b77ee6a403.png",
+    "static/media/laynhiemcheo.webp": "/dieu-duong/static/media/laynhiemcheo.960dea48506ccfbb57bd.webp",
+    "static/media/imlang.webp": "/dieu-duong/static/media/imlang.daa3fff447e10f2476ba.webp",
+    "static/media/tenga.webp": "/dieu-duong/static/media/tenga.502635b45dd1eeb3a280.webp",
     "static/media/mach.webp": "/dieu-duong/static/media/mach.6b3ecc8508162d641dfc.webp",
+    "static/media/quataichochidinh.webp": "/dieu-duong/static/media/quataichochidinh.59d64a1a4cb9ad6a3651.webp",
     "static/media/huyetap.webp": "/dieu-duong/static/media/huyetap.12e1c9fba4c7d049389f.webp",
     "static/media/khainiemphancap.webp": "/dieu-duong/static/media/khainiemphancap.9233b38a2ed5131cfc90.webp",
     "static/media/nhietdo.webp": "/dieu-duong/static/media/nhietdo.f59134ebfa6bbe06ce98.webp",
+    "static/media/aplucongviec.webp": "/dieu-duong/static/media/aplucongviec.4632fe60d263b43aa27e.webp",
     "static/media/danhgiatinhtrangdau.png": "/dieu-duong/static/media/danhgiatinhtrangdau.ca682f52de463cc0a173.png",
     "static/media/phuchan.webp": "/dieu-duong/static/media/phuchan.03a0dd908996e25b60c6.webp",
     "static/media/nhiptho.webp": "/dieu-duong/static/media/nhiptho.6064623baa26991fc0e4.webp",
+    "static/media/bnkhotinh.webp": "/dieu-duong/static/media/bnkhotinh.030afc35ef211445bdee.webp",
     "static/media/davang.webp": "/dieu-duong/static/media/davang.19b4ba21a15bc2bd9c24.webp",
     "static/media/congcudanhgiamucdodau.png": "/dieu-duong/static/media/congcudanhgiamucdodau.72e591a0b5a7117cfc16.png",
     "static/media/daxanh.jpg": "/dieu-duong/static/media/daxanh.2cef294c7250361d0ade.jpg",
@@ -25,11 +38,11 @@
     "static/media/phutay.jpg": "/dieu-duong/static/media/phutay.20f9ee0a6775dcad9130.jpg",
     "index.html": "/dieu-duong/index.html",
     "main.4fc8bffe.css.map": "/dieu-duong/static/css/main.4fc8bffe.css.map",
-    "main.a1e2c18b.js.map": "/dieu-duong/static/js/main.a1e2c18b.js.map",
+    "main.3e495dbe.js.map": "/dieu-duong/static/js/main.3e495dbe.js.map",
     "453.906146e1.chunk.js.map": "/dieu-duong/static/js/453.906146e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4fc8bffe.css",
-    "static/js/main.a1e2c18b.js"
+    "static/js/main.3e495dbe.js"
   ]
 }
