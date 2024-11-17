@@ -32,7 +32,7 @@ const SideBar = ({ openSideBar }) => {
           children: [
             { title: "3.1. Nhận định và phân độ vết loét", id: "section1-3" },
             {
-              title: "3.2. Thang điểm BRADEN dự đoán nguye cơ loét",
+              title: "3.2. Thang điểm BRADEN dự đoán nguy cơ loét",
               id: "section1-3-2",
             },
             {
