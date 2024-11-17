@@ -129,6 +129,15 @@ const SideBar = ({ openSideBar }) => {
           title: "7. Bảng nguy cơ tai biến và phòng ngừa khi thở oxy",
           id: "section3-7",
         },
+        {
+          title:
+            "8. Bảng nguy cơ tai biến và phòng ngừa khi đặt ống thông dạ dày",
+          id: "section3-8",
+        },
+        {
+          title: "9. Tình huống xử trí khi đặt ống thông dạ dày",
+          id: "section3-9",
+        },
       ],
     },
   ];

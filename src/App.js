@@ -40,6 +40,9 @@ import C6_1_TruyenDich from "./Components/ChuyenDe3/C6_1_TruyenDich";
 import C6_2_BangTinhTGTruyenDich from "./Components/ChuyenDe3/C6_2_BangTinhTGTruyenDich";
 import C6_3_TaiBien from "./Components/ChuyenDe3/C6_3_TaiBien";
 import C6_4_PhongNgua from "./Components/ChuyenDe3/C6_4_PhongNgua";
+import C7_0_PhongNguaKhiTho from "./Components/ChuyenDe3/C7_0_PhongNguaKhiTho";
+import C8_0_PhongNguaDatOngThongDD from "./Components/ChuyenDe3/C8_0_PhongNguaDatOngThongDD";
+import C9_0_XuTriKhiDatOngThongDD from "./Components/ChuyenDe3/C9_0_XuTriKhiDatOngThongDD";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -127,6 +130,9 @@ const App = () => {
             <C6_2_BangTinhTGTruyenDich />
             <C6_3_TaiBien />
             <C6_4_PhongNgua />
+            <C7_0_PhongNguaKhiTho />
+            <C8_0_PhongNguaDatOngThongDD />
+            <C9_0_XuTriKhiDatOngThongDD />
           </div>
         </div>
       </div>
