@@ -31,6 +31,8 @@ import B12_0_6MucTieu from "./Components/ChuyenDe2/B12_0_6MucTieu";
 import B13_0_NguyCo from "./Components/ChuyenDe2/B13_0_NguyCo";
 import B14_0_SuCo from "./Components/ChuyenDe2/B14_0_SuCo";
 import B15_0_10MucTieuATPT from "./Components/ChuyenDe2/B15_0_10MucTieuATPT";
+import C1_0_TiemAnToan from "./Components/ChuyenDe3/C1_0_TiemAnToan";
+import C2_0_ViTriTiem from "./Components/ChuyenDe3/C2_0_ViTriTiem";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -109,6 +111,8 @@ const App = () => {
             <B13_0_NguyCo />
             <B14_0_SuCo />
             <B15_0_10MucTieuATPT />
+            <C1_0_TiemAnToan />
+            <C2_0_ViTriTiem />
           </div>
         </div>
       </div>

@@ -85,6 +85,14 @@ const SideBar = ({ openSideBar }) => {
         },
       ],
     },
+    {
+      title: "Chuyên đề III: Kiến thức về thực hành quy trình ĐD",
+      id: "section3-1",
+      children: [
+        { title: "1. Tiêm an toàn", id: "section3-1" },
+        { title: "2. Cách xác định vị trí tiêm", id: "section3-2" },
+      ],
+    },
   ];
   // Filter function for search
   const filterMenu = (items) => {
