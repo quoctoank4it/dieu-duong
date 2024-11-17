@@ -91,6 +91,10 @@ const SideBar = ({ openSideBar }) => {
       children: [
         { title: "1. Tiêm an toàn", id: "section3-1" },
         { title: "2. Cách xác định vị trí tiêm", id: "section3-2" },
+        {
+          title: "3. Tai biến, xử trí và cách đề phòng khi tiêm",
+          id: "section3-3",
+        },
       ],
     },
   ];
