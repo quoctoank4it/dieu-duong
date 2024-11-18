@@ -150,6 +150,7 @@ const SideBar = ({ openSideBar }) => {
           id: "section4-1",
         },
         { title: "2. Sơ cứu khi bị nghẹn hóc", id: "section4-2" },
+        { title: "3. Xử trí khi bỏng", id: "section4-3" },
       ],
     },
   ];
