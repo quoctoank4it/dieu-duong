@@ -10,7 +10,7 @@ const D3_XuTriBong = ({}) => {
   return (
     <div id="section4-3" className="section">
       <div className="container">
-        <h2>2. XỬ TRÍ KHI BỊ BỎNG</h2>
+        <h2>3. XỬ TRÍ KHI BỊ BỎNG</h2>
         <img
           src={XuTriBong}
           width={"100%"}
