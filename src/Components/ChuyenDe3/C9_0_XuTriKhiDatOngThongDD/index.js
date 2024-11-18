@@ -7,8 +7,8 @@ const C9_0_XuTriKhiDatOngThongDD = ({}) => {
         <h2>9. TÌNH HUỐNG, XỬ TRÍ KHI ĐẶT ỐNG THÔNG DẠ DÀY</h2>
         <table>
           <tr>
-            <th>Nguy cơ - tai biến</th>
-            <th>Phòng ngừa</th>
+            <th>Tình huống</th>
+            <th>Xử trí</th>
           </tr>
           <tr>
             <td>
