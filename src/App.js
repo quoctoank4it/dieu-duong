@@ -43,6 +43,9 @@ import C6_4_PhongNgua from "./Components/ChuyenDe3/C6_4_PhongNgua";
 import C7_0_PhongNguaKhiTho from "./Components/ChuyenDe3/C7_0_PhongNguaKhiTho";
 import C8_0_PhongNguaDatOngThongDD from "./Components/ChuyenDe3/C8_0_PhongNguaDatOngThongDD";
 import C9_0_XuTriKhiDatOngThongDD from "./Components/ChuyenDe3/C9_0_XuTriKhiDatOngThongDD";
+import D0_SoCuu from "./Components/ChuyenDe4/D0_SoCuu";
+import D1_DauHieu from "./Components/ChuyenDe4/D1_DauHieu";
+import D2_SoCuuNghen from "./Components/ChuyenDe4/D2_SoCuuNghen";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -133,6 +136,9 @@ const App = () => {
             <C7_0_PhongNguaKhiTho />
             <C8_0_PhongNguaDatOngThongDD />
             <C9_0_XuTriKhiDatOngThongDD />
+            <D0_SoCuu />
+            <D1_DauHieu />
+            <D2_SoCuuNghen />
           </div>
         </div>
       </div>

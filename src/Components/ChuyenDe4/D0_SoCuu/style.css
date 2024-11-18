@@ -4,6 +4,12 @@ h2 {
   font-size: 18px;
 }
 
+h1 {
+  text-align: left;
+  color: #3498db;
+  font-size: 16px;
+}
+
 .pulse-table {
   width: 100%;
   border-collapse: collapse;
@@ -30,29 +36,4 @@ h2 {
 
 .pulse-table tbody tr:hover {
   background-color: #eaeaea;
-}
-
-.card {
-  padding: 20px;
-  border: 1px solid #a5c88d;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  background-color: #fff;
-}
-
-.card h2 {
-  text-align: center;
-  color: #1e73be;
-  margin-bottom: 15px;
-}
-
-.card ul {
-  list-style-type: disc;
-  padding-left: 20px;
-}
-
-.card li {
-  margin-bottom: 10px;
-  line-height: 1.5;
-  text-align: justify;
 }

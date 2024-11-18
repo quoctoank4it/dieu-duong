@@ -140,6 +140,18 @@ const SideBar = ({ openSideBar }) => {
         },
       ],
     },
+    {
+      title:
+        "Chuyên đề IV: Sơ cấp cứu ban đầu một số tai nạn và thương tích thường gặp",
+      id: "section4",
+      children: [
+        {
+          title: "1. Một số dấu hiệu bất thường và cách xử trí",
+          id: "section4-1",
+        },
+        { title: "2. Sơ cứu khi bị nghẹn hóc", id: "section4-2" },
+      ],
+    },
   ];
   // Filter function for search
   const filterMenu = (items) => {
