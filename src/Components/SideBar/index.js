@@ -151,14 +151,19 @@ const SideBar = ({ openSideBar }) => {
         },
         { title: "2. Sơ cứu khi bị nghẹn hóc", id: "section4-2" },
         { title: "3. Xử trí khi bỏng", id: "section4-3" },
-        { title: "4. Đột quỵ", id: "section4-4" },
         {
-          title: "4.1. Dấu hiệu nhận biệt người bị đột quỵ",
-          id: "section4-4-1",
-        },
-        {
-          title: "4.2. Sơ cứu khi bị đột quỵ",
-          id: "section4-4-2",
+          title: "4. Đột quỵ",
+          id: "section4-4",
+          children: [
+            {
+              title: "4.1. Dấu hiệu nhận biệt người bị đột quỵ",
+              id: "section4-4-1",
+            },
+            {
+              title: "4.2. Sơ cứu khi bị đột quỵ",
+              id: "section4-4-2",
+            },
+          ],
         },
       ],
     },
