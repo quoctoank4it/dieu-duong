@@ -209,7 +209,7 @@ const SideBar = ({ openSideBar }) => {
         }}
       >
         <span>Copyright © 2024</span>
-        <span>Ths Trần Thị Tây Nguyên</span>
+        <span>luxubudiep@gmail.com</span>
       </div>
     </div>
   );
