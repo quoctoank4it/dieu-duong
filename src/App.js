@@ -47,6 +47,9 @@ import D0_SoCuu from "./Components/ChuyenDe4/D0_SoCuu";
 import D1_DauHieu from "./Components/ChuyenDe4/D1_DauHieu";
 import D2_SoCuuNghen from "./Components/ChuyenDe4/D2_SoCuuNghen";
 import D3_XuTriBong from "./Components/ChuyenDe4/D3_XuTriBong";
+import D4_DotQuy from "./Components/ChuyenDe4/D4_0_DotQuy";
+import D4_1_DauHieu from "./Components/ChuyenDe4/D4_1_DauHieu";
+import D4_2_SoCuuDQ from "./Components/ChuyenDe4/D4_2_SoCuuDQ";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -141,6 +144,9 @@ const App = () => {
             <D1_DauHieu />
             <D2_SoCuuNghen />
             <D3_XuTriBong />
+            <D4_DotQuy />
+            <D4_1_DauHieu />
+            <D4_2_SoCuuDQ />
           </div>
         </div>
       </div>
