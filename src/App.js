@@ -50,6 +50,11 @@ import D3_XuTriBong from "./Components/ChuyenDe4/D3_XuTriBong";
 import D4_DotQuy from "./Components/ChuyenDe4/D4_0_DotQuy";
 import D4_1_DauHieu from "./Components/ChuyenDe4/D4_1_DauHieu";
 import D4_2_SoCuuDQ from "./Components/ChuyenDe4/D4_2_SoCuuDQ";
+import D5_CapCuuNTH from "./Components/ChuyenDe4/D5_CapCuuNTH";
+import D6_0_GayXuong from "./Components/ChuyenDe4/D6_0_GayXuong";
+import D6_1_MucDich from "./Components/ChuyenDe4/D6_1_MucDich";
+import D6_2_BienChung from "./Components/ChuyenDe4/D6_2_BienChung";
+import D6_3_SoCuuGX from "./Components/ChuyenDe4/D6_3_SoCuuGX";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -147,6 +152,11 @@ const App = () => {
             <D4_DotQuy />
             <D4_1_DauHieu />
             <D4_2_SoCuuDQ />
+            <D5_CapCuuNTH />
+            <D6_0_GayXuong />
+            <D6_1_MucDich />
+            <D6_2_BienChung />
+            <D6_3_SoCuuGX />
           </div>
         </div>
       </div>

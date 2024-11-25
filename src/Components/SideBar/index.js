@@ -165,6 +165,25 @@ const SideBar = ({ openSideBar }) => {
             },
           ],
         },
+        { title: "5. Cấp cứu ngừng tuần hoàn", id: "section4-5" },
+        {
+          title: "6. Sơ cứu gãy xương",
+          id: "section4-6-0",
+          children: [
+            {
+              title: "6.1. Mục đích",
+              id: "section4-6-1",
+            },
+            {
+              title: "6.2. Biến chứng gãy xương",
+              id: "section4-6-2",
+            },
+            {
+              title: "6.3. Sơ cứu gãy xương",
+              id: "section4-6-3",
+            },
+          ],
+        },
       ],
     },
   ];
