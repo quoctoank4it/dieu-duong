@@ -184,6 +184,7 @@ const SideBar = ({ openSideBar }) => {
             },
           ],
         },
+        { title: "7. Xử lý vết thương chảy máu", id: "section4-7" },
       ],
     },
   ];

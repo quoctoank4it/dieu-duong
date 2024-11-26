@@ -55,6 +55,7 @@ import D6_0_GayXuong from "./Components/ChuyenDe4/D6_0_GayXuong";
 import D6_1_MucDich from "./Components/ChuyenDe4/D6_1_MucDich";
 import D6_2_BienChung from "./Components/ChuyenDe4/D6_2_BienChung";
 import D6_3_SoCuuGX from "./Components/ChuyenDe4/D6_3_SoCuuGX";
+import D7_0_XuLyChayMau from "./Components/ChuyenDe4/D7_0_XuLyChayMau";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -157,6 +158,7 @@ const App = () => {
             <D6_1_MucDich />
             <D6_2_BienChung />
             <D6_3_SoCuuGX />
+            <D7_0_XuLyChayMau />
           </div>
         </div>
       </div>
