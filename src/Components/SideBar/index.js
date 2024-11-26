@@ -185,6 +185,7 @@ const SideBar = ({ openSideBar }) => {
           ],
         },
         { title: "7. Xử lý vết thương chảy máu", id: "section4-7" },
+        { title: "8. Xử lý vết thương dập nát, đứt lìa", id: "section4-8" },
       ],
     },
   ];
