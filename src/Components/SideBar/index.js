@@ -262,7 +262,7 @@ const SideBar = ({ openSideBar }) => {
           fontStyle: "italic",
         }}
       >
-        <span>Copyright © 2024</span>
+        <span>Copyright © 2025</span>
         <span>luxubudiep@gmail.com</span>
       </div>
     </div>
