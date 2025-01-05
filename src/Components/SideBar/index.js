@@ -205,6 +205,22 @@ const SideBar = ({ openSideBar }) => {
           title: "15. Co giật/động kinh",
           id: "section4-15",
         },
+        {
+          title: "16. Côn trùng cắn",
+          id: "section4-16",
+        },
+        {
+          title: "17. Rắn cắn",
+          id: "section4-17",
+        },
+        {
+          title: "18. Phản vệ",
+          id: "section4-18",
+        },
+        {
+          title: "19. Một số kỹ năng thoát hiểm trong đám cháy",
+          id: "section4-19",
+        },
       ],
     },
   ];

@@ -64,6 +64,10 @@ import D12_0_ChanThuongCotSong from "./Components/ChuyenDe4/D12_0_ChanThuongCotS
 import D13_0_NgatXiu from "./Components/ChuyenDe4/D13_0_NgatXiu";
 import D14_0_DuoiNuoc from "./Components/ChuyenDe4/D14_0_DuoiNuoc";
 import D15_0_CoGiatDongKinh from "./Components/ChuyenDe4/D15_0_CoGiatDongKinh";
+import D16_0_ConTrung from "./Components/ChuyenDe4/D16_0_ConTrung";
+import D17_0_RanCan from "./Components/ChuyenDe4/D17_0_RanCan";
+import D18_0_PhanVe from "./Components/ChuyenDe4/D18_0_PhanVe";
+import D19_0_PhongChay from "./Components/ChuyenDe4/D19_0_PhongChay";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -175,6 +179,10 @@ const App = () => {
             <D13_0_NgatXiu />
             <D14_0_DuoiNuoc />
             <D15_0_CoGiatDongKinh />
+            <D16_0_ConTrung />
+            <D17_0_RanCan />
+            <D18_0_PhanVe />
+            <D19_0_PhongChay />
           </div>
         </div>
       </div>
