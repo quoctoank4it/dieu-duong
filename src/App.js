@@ -57,6 +57,13 @@ import D6_2_BienChung from "./Components/ChuyenDe4/D6_2_BienChung";
 import D6_3_SoCuuGX from "./Components/ChuyenDe4/D6_3_SoCuuGX";
 import D7_0_XuLyChayMau from "./Components/ChuyenDe4/D7_0_XuLyChayMau";
 import D8_0_XuLyDapNatDutLia from "./Components/ChuyenDe4/D8_0_XuLyDapNatDutLia";
+import D9_0_BongGan from "./Components/ChuyenDe4/D9_0_BongGan";
+import D10_0_ChanThuongDau from "./Components/ChuyenDe4/D10_0_ChanThuongDau";
+import D11_0_ChanThuongSoNao from "./Components/ChuyenDe4/D11_0_ChanThuongSoNao";
+import D12_0_ChanThuongCotSong from "./Components/ChuyenDe4/D12_0_ChanThuongCotSong";
+import D13_0_NgatXiu from "./Components/ChuyenDe4/D13_0_NgatXiu";
+import D14_0_DuoiNuoc from "./Components/ChuyenDe4/D14_0_DuoiNuoc";
+import D15_0_CoGiatDongKinh from "./Components/ChuyenDe4/D15_0_CoGiatDongKinh";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -161,6 +168,13 @@ const App = () => {
             <D6_3_SoCuuGX />
             <D7_0_XuLyChayMau />
             <D8_0_XuLyDapNatDutLia />
+            <D9_0_BongGan />
+            <D10_0_ChanThuongDau />
+            <D11_0_ChanThuongSoNao />
+            <D12_0_ChanThuongCotSong />
+            <D13_0_NgatXiu />
+            <D14_0_DuoiNuoc />
+            <D15_0_CoGiatDongKinh />
           </div>
         </div>
       </div>

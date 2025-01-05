@@ -186,6 +186,25 @@ const SideBar = ({ openSideBar }) => {
         },
         { title: "7. Xử lý vết thương chảy máu", id: "section4-7" },
         { title: "8. Xử lý vết thương dập nát, đứt lìa", id: "section4-8" },
+        { title: "9. Bong gân", id: "section4-9" },
+        { title: "10. Chấn thương đầu", id: "section4-10" },
+        { title: "11. Cấp cứu chấn thương sọ não", id: "section4-11" },
+        {
+          title: "12. Chấn thương cột sống",
+          id: "section4-12",
+        },
+        {
+          title: "13. Ngất xỉu",
+          id: "section4-13",
+        },
+        {
+          title: "14. Đuối nước",
+          id: "section4-14",
+        },
+        {
+          title: "15. Co giật/động kinh",
+          id: "section4-15",
+        },
       ],
     },
   ];
