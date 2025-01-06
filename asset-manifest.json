@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd076c96.css",
-    "main.js": "/static/js/main.b2f4a401.js",
+    "main.css": "/static/css/main.4bc3d72c.css",
+    "main.js": "/static/js/main.da180df9.js",
     "static/js/453.c29b2945.chunk.js": "/static/js/453.c29b2945.chunk.js",
     "static/media/cachveodatieminsulin.png": "/static/media/cachveodatieminsulin.d230bc841f45f80640c4.png",
     "static/media/ConTrungCan.png": "/static/media/ConTrungCan.773b774e1fff764bd943.png",
@@ -24,6 +24,7 @@
     "static/media/ChayMau.png": "/static/media/ChayMau.6f624d93cc1290945071.png",
     "static/media/mach.webp": "/static/media/mach.6b3ecc8508162d641dfc.webp",
     "static/media/quataichochidinh.webp": "/static/media/quataichochidinh.59d64a1a4cb9ad6a3651.webp",
+    "static/media/HeABO.png": "/static/media/HeABO.380a7c72e75c55ee3ca1.png",
     "static/media/huyetap.webp": "/static/media/huyetap.12e1c9fba4c7d049389f.webp",
     "static/media/tiemcoduoi.png": "/static/media/tiemcoduoi.a651754e0ab8ac46c888.png",
     "static/media/HoHapNhanTao.png": "/static/media/HoHapNhanTao.f7f8bcf115c4fcf66f20.png",
@@ -77,12 +78,12 @@
     "static/media/DatNamYen.jpg": "/static/media/DatNamYen.88318fa06653512a27e4.jpg",
     "static/media/GayXuong.webp": "/static/media/GayXuong.af5c8b979f8799e2bcfc.webp",
     "index.html": "/index.html",
-    "main.dd076c96.css.map": "/static/css/main.dd076c96.css.map",
-    "main.b2f4a401.js.map": "/static/js/main.b2f4a401.js.map",
+    "main.4bc3d72c.css.map": "/static/css/main.4bc3d72c.css.map",
+    "main.da180df9.js.map": "/static/js/main.da180df9.js.map",
     "453.c29b2945.chunk.js.map": "/static/js/453.c29b2945.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd076c96.css",
-    "static/js/main.b2f4a401.js"
+    "static/css/main.4bc3d72c.css",
+    "static/js/main.da180df9.js"
   ]
 }
