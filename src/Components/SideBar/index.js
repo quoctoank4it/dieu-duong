@@ -243,6 +243,30 @@ const SideBar = ({ openSideBar }) => {
           title: "4. Quy trình truyền máu",
           id: "section5-4",
         },
+        {
+          title: "5. Một số lưu ý khi truyền máu",
+          id: "section5-5",
+        },
+        {
+          title: "6. Một só nguyên nhân thường gặp gây truyền nhầm máu",
+          id: "section5-6",
+        },
+        {
+          title: "7. Cách xác định nhóm máu hệ ABO",
+          id: "section5-7",
+        },
+        {
+          title: "8. Hướng dẫn lấy nước tiểu 24 giờ",
+          id: "section5-8",
+        },
+        {
+          title: "9. Ý nghĩa một số chỉ số xét nghiệm huyết học",
+          id: "section5-9",
+        },
+        {
+          title: "10. Ý nghĩa một số chỉ số xét nghiệm sinh hóa",
+          id: "section5-10",
+        },
       ],
     },
   ];

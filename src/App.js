@@ -73,6 +73,12 @@ import E1_XetNghiemMau from "./Components/ChuyenDe5/E1_XetNghiemMau";
 import E2_SoDoTruyenKhoiHC from "./Components/ChuyenDe5/E2_SoDoTruyenKhoiHC";
 import E3_SoDoTruyenHT from "./Components/ChuyenDe5/E3_SoDoTruyenHT";
 import E4_QuyTrinhTruyenMau from "./Components/ChuyenDe5/E4_QuyTrinhTruyenMau";
+import E5_TruyenMau from "./Components/ChuyenDe5/E5_TruyenMau";
+import E6_NhamMau from "./Components/ChuyenDe5/E6_NhamMau";
+import E7_HeABO from "./Components/ChuyenDe5/E7_HeABO";
+import E8_LayNuocTieu from "./Components/ChuyenDe5/E8_LayNuocTieu";
+import E9_HuyetHoc from "./Components/ChuyenDe5/E9_HuyetHoc";
+import E10_XetNghiemSinhHoa from "./Components/ChuyenDe5/E10_XetNghiemSinhHoa";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -193,6 +199,12 @@ const App = () => {
             <E2_SoDoTruyenKhoiHC />
             <E3_SoDoTruyenHT />
             <E4_QuyTrinhTruyenMau />
+            <E5_TruyenMau />
+            <E6_NhamMau />
+            <E7_HeABO />
+            <E8_LayNuocTieu />
+            <E9_HuyetHoc />
+            <E10_XetNghiemSinhHoa />
           </div>
         </div>
       </div>
