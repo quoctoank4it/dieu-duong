@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4bc3d72c.css",
-    "main.js": "/static/js/main.173da25f.js",
+    "main.js": "/static/js/main.573cd855.js",
     "static/js/453.c29b2945.chunk.js": "/static/js/453.c29b2945.chunk.js",
     "static/media/cachveodatieminsulin.png": "/static/media/cachveodatieminsulin.d230bc841f45f80640c4.png",
     "static/media/ConTrungCan.png": "/static/media/ConTrungCan.773b774e1fff764bd943.png",
@@ -79,11 +79,11 @@
     "static/media/GayXuong.webp": "/static/media/GayXuong.af5c8b979f8799e2bcfc.webp",
     "index.html": "/index.html",
     "main.4bc3d72c.css.map": "/static/css/main.4bc3d72c.css.map",
-    "main.173da25f.js.map": "/static/js/main.173da25f.js.map",
+    "main.573cd855.js.map": "/static/js/main.573cd855.js.map",
     "453.c29b2945.chunk.js.map": "/static/js/453.c29b2945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bc3d72c.css",
-    "static/js/main.173da25f.js"
+    "static/js/main.573cd855.js"
   ]
 }
