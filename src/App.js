@@ -68,6 +68,11 @@ import D16_0_ConTrung from "./Components/ChuyenDe4/D16_0_ConTrung";
 import D17_0_RanCan from "./Components/ChuyenDe4/D17_0_RanCan";
 import D18_0_PhanVe from "./Components/ChuyenDe4/D18_0_PhanVe";
 import D19_0_PhongChay from "./Components/ChuyenDe4/D19_0_PhongChay";
+import E0_XetNghiem from "./Components/ChuyenDe5/E0_XetNghiem";
+import E1_XetNghiemMau from "./Components/ChuyenDe5/E1_XetNghiemMau";
+import E2_SoDoTruyenKhoiHC from "./Components/ChuyenDe5/E2_SoDoTruyenKhoiHC";
+import E3_SoDoTruyenHT from "./Components/ChuyenDe5/E3_SoDoTruyenHT";
+import E4_QuyTrinhTruyenMau from "./Components/ChuyenDe5/E4_QuyTrinhTruyenMau";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -183,6 +188,11 @@ const App = () => {
             <D17_0_RanCan />
             <D18_0_PhanVe />
             <D19_0_PhongChay />
+            <E0_XetNghiem />
+            <E1_XetNghiemMau />
+            <E2_SoDoTruyenKhoiHC />
+            <E3_SoDoTruyenHT />
+            <E4_QuyTrinhTruyenMau />
           </div>
         </div>
       </div>

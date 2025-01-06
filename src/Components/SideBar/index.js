@@ -223,6 +223,28 @@ const SideBar = ({ openSideBar }) => {
         },
       ],
     },
+    {
+      title: "Chuyên đề V: Chuyên đề xét nghiệm",
+      id: "section5",
+      children: [
+        {
+          title: "1. Thứ tự cho máu vào các ống",
+          id: "section5-1",
+        },
+        {
+          title: "2. Sơ đồ truyền khối hồng cầu",
+          id: "section5-2",
+        },
+        {
+          title: "3. Sơ đồ truyền huyết tương",
+          id: "section5-3",
+        },
+        {
+          title: "4. Quy trình truyền máu",
+          id: "section5-4",
+        },
+      ],
+    },
   ];
   // Filter function for search
   const filterMenu = (items) => {
