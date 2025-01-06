@@ -267,6 +267,10 @@ const SideBar = ({ openSideBar }) => {
           title: "10. Ý nghĩa một số chỉ số xét nghiệm sinh hóa",
           id: "section5-10",
         },
+        {
+          title: "11. Một số chú ý khi lấy máu xét nghiệm",
+          id: "section5-11",
+        },
       ],
     },
   ];

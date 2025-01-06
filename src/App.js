@@ -79,6 +79,7 @@ import E7_HeABO from "./Components/ChuyenDe5/E7_HeABO";
 import E8_LayNuocTieu from "./Components/ChuyenDe5/E8_LayNuocTieu";
 import E9_HuyetHoc from "./Components/ChuyenDe5/E9_HuyetHoc";
 import E10_XetNghiemSinhHoa from "./Components/ChuyenDe5/E10_XetNghiemSinhHoa";
+import E11_ChuYLayMau from "./Components/ChuyenDe5/E11_ChuYLayMau";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -205,6 +206,7 @@ const App = () => {
             <E8_LayNuocTieu />
             <E9_HuyetHoc />
             <E10_XetNghiemSinhHoa />
+            <E11_ChuYLayMau />
           </div>
         </div>
       </div>

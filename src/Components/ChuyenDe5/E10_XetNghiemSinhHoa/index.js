@@ -8,8 +8,7 @@ const E10_XetNghiemSinhHoa = ({}) => {
         <table>
           <thead>
             <tr>
-              <th>Tên XN</th>
-              <th>Ý nghĩa</th>
+              <th>Chỉ số</th>
               <th>Giá trị bình thường</th>
               <th>Tăng</th>
               <th>Giảm</th>
@@ -17,8 +16,11 @@ const E10_XetNghiemSinhHoa = ({}) => {
           </thead>
           <tbody>
             <tr>
-              <td>Ure</td>
-              <td>Chức năng thận</td>
+              <td>
+                Ure
+                <br />
+                (Chức năng thận)
+              </td>
               <td>Nam: 2,5-7,5 mmol/l</td>
               <td>
                 Viêm cầu thận, viêm ống thận, suy thận, sỏi thận, sỏi niệu quản,
@@ -30,8 +32,11 @@ const E10_XetNghiemSinhHoa = ({}) => {
               </td>
             </tr>
             <tr>
-              <td>Creatinin</td>
-              <td>Chức năng thận</td>
+              <td>
+                Creatinin
+                <br />
+                (Chức năng thận)
+              </td>
               <td>
                 Nam: 62-120 mmol/l
                 <br />
@@ -43,14 +48,16 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Glucose</td>
-              <td></td>
               <td>Nam: 4,2-6,4%</td>
               <td>Đái tháo đường, viêm tụy, bệnh tuyến giáp</td>
               <td>Hạ đường huyết, sử dụng thuốc hạ đường huyết quá liều...</td>
             </tr>
             <tr>
-              <td>Acid Uric</td>
-              <td>Chẩn đoán gout, bệnh thận...</td>
+              <td>
+                Acid Uric
+                <br />
+                (Chẩn đoán gout, bệnh thận...)
+              </td>
               <td>
                 Nam: 180-420 mmol/l
                 <br />
@@ -62,14 +69,16 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Protein/TP</td>
-              <td></td>
               <td>Nam: 46-82 g/L</td>
               <td>Bệnh tự miễn, xơ gan, u ác tính</td>
               <td>Hội chứng thận hư, suy giảm miễn dịch</td>
             </tr>
             <tr>
-              <td>Cholesterol</td>
-              <td>Rối loạn lipid máu</td>
+              <td>
+                Cholesterol
+                <br />
+                (Rối loạn lipid máu)
+              </td>
               <td>Nam: 3,9-5,2 mmol/l</td>
               <td>
                 Rối loạn lipid máu, xơ vữa động mạch, cao huyết áp, nhồi máu cơ
@@ -79,7 +88,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Triglycerid</td>
-              <td></td>
               <td>Nam: 0,46-1,88 mmol/l</td>
               <td>
                 Kèm hấp thu, suy kiệt, sau bỏng lớn hoặc nhiễm trùng nặng...
@@ -88,7 +96,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Na+</td>
-              <td></td>
               <td>135 - 145 mEq/l</td>
               <td>Cường aldosteron, dùng corticoid, mất nước,</td>
               <td>
@@ -98,7 +105,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>K+</td>
-              <td></td>
               <td>3,5 - 5 mEq/l</td>
               <td>
                 Suy thận hoặc do sử dụng các thuốc tăng giữ kali như thuốc lợi
@@ -108,7 +114,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Cl</td>
-              <td></td>
               <td>98 - 106 mmol/l</td>
               <td>
                 Ăn mặn, toan chuyển hoá, suy thận cấp, shock phản vệ, hôn mê
@@ -121,14 +126,12 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>Ca++</td>
-              <td></td>
               <td>4,4 - 5,2 mEq/l</td>
               <td>Dùng nhiều vitamin D, cường cận giáp, nhiễm độc giáp</td>
               <td>Thiếu vitamin D, nhược cận giáp,...</td>
             </tr>
             <tr>
               <td>Ca++</td>
-              <td></td>
               <td>4,4 - 5,2 mEq/l</td>
               <td>Dùng nhiều vitamin D, cường cận giáp, nhiễm độc giáp</td>
               <td>Thiếu vitamin D, nhược cận giáp,...</td>
@@ -140,7 +143,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
                 <br />
                 ALT
               </td>
-              <td></td>
               <td>10-40U/L</td>
               <td>
                 Viêm gan, ứ mật, ung thư gan, viêm gan do rượu, nhồi máu cơ tim
@@ -149,7 +151,6 @@ const E10_XetNghiemSinhHoa = ({}) => {
             </tr>
             <tr>
               <td>CRP</td>
-              <td></td>
               <td>0-6mg/L</td>
               <td>Viêm tụy cấp, nhồi máu cơ tim, tắc mạch</td>
               <td></td>
