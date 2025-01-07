@@ -301,6 +301,10 @@ const SideBar = ({ openSideBar }) => {
           title: "6. Tiệt khuẩn - khử khuẩn",
           id: "section6-6",
         },
+        {
+          title: "7. Phòng ngừa nguy cơ do máu, dịch tiết, vật sắc nhọn",
+          id: "section6-7",
+        },
       ],
     },
   ];
