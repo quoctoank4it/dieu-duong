@@ -305,6 +305,18 @@ const SideBar = ({ openSideBar }) => {
           title: "7. Phòng ngừa nguy cơ do máu, dịch tiết, vật sắc nhọn",
           id: "section6-7",
         },
+        {
+          title: "8. Quy trình xử trí sau khi bị phơi nhiễm",
+          id: "section6-8",
+        },
+        {
+          title: "9. Xử trí ban đầu khi bị phơi nhiễm",
+          id: "section6-9",
+        },
+        {
+          title: "10. Quy trình xử lý dụng cụ tại các khoa phòng",
+          id: "section6-10",
+        },
       ],
     },
   ];

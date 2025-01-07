@@ -88,6 +88,9 @@ import F4_BangPhanLoaiCTYT from "./Components/ChuyenDe6/F4_BangPhanLoaiCTYT";
 import F5_NhiemKhuanBenhVien from "./Components/ChuyenDe6/F5_NhiemKhuanBenhVien";
 import F6_TietKhuan from "./Components/ChuyenDe6/F6_TietKhuan";
 import F7_PhongNgua from "./Components/ChuyenDe6/F7_PhongNgua";
+import F8_PhoiNhiem from "./Components/ChuyenDe6/F8_PhoiNhiem";
+import F9_XuTriPhoiNhiem from "./Components/ChuyenDe6/F9_XuTriPhoiNhiem";
+import F10_XuLyDungCu from "./Components/ChuyenDe6/F10_XuLyDungCu";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -223,6 +226,9 @@ const App = () => {
             <F5_NhiemKhuanBenhVien />
             <F6_TietKhuan />
             <F7_PhongNgua />
+            <F8_PhoiNhiem />
+            <F9_XuTriPhoiNhiem />
+            <F10_XuLyDungCu />
           </div>
         </div>
       </div>
