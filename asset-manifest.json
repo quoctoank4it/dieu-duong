@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4bc3d72c.css",
-    "main.js": "/static/js/main.573cd855.js",
+    "main.js": "/static/js/main.74296c11.js",
     "static/js/453.c29b2945.chunk.js": "/static/js/453.c29b2945.chunk.js",
     "static/media/cachveodatieminsulin.png": "/static/media/cachveodatieminsulin.d230bc841f45f80640c4.png",
     "static/media/ConTrungCan.png": "/static/media/ConTrungCan.773b774e1fff764bd943.png",
@@ -14,17 +14,20 @@
     "static/media/phauthuat.webp": "/static/media/phauthuat.56ad8c28e12acc9e68e9.webp",
     "static/media/dundayviec.webp": "/static/media/dundayviec.4e0d763cf4b82614e293.webp",
     "static/media/chidinhdieutrikhongrorang.webp": "/static/media/chidinhdieutrikhongrorang.eddf7c5f3fa00f16420a.webp",
+    "static/media/KiemSoatNhiemKhuan2.webp": "/static/media/KiemSoatNhiemKhuan2.f1bda94a9e948a7f72d4.webp",
     "static/media/capcuukhancap.webp": "/static/media/capcuukhancap.90f189206abcc5beb403.webp",
     "static/media/vitriloet.png": "/static/media/vitriloet.0416c711f6b77ee6a403.png",
     "static/media/vitritiem.png": "/static/media/vitritiem.1ea8b53b0c3fa9e36386.png",
     "static/media/laynhiemcheo.webp": "/static/media/laynhiemcheo.960dea48506ccfbb57bd.webp",
     "static/media/XetNghiemMau.png": "/static/media/XetNghiemMau.2e47b98345f1adb06410.png",
+    "static/media/BangPhanLoaiRacYTe.jpg": "/static/media/BangPhanLoaiRacYTe.d49bdf23bec779002a7f.jpg",
     "static/media/imlang.webp": "/static/media/imlang.daa3fff447e10f2476ba.webp",
     "static/media/tenga.webp": "/static/media/tenga.502635b45dd1eeb3a280.webp",
     "static/media/ChayMau.png": "/static/media/ChayMau.6f624d93cc1290945071.png",
     "static/media/mach.webp": "/static/media/mach.6b3ecc8508162d641dfc.webp",
     "static/media/quataichochidinh.webp": "/static/media/quataichochidinh.59d64a1a4cb9ad6a3651.webp",
     "static/media/HeABO.png": "/static/media/HeABO.380a7c72e75c55ee3ca1.png",
+    "static/media/KiemSoatNhiemKhuan1.webp": "/static/media/KiemSoatNhiemKhuan1.b190a5e15c86b954835e.webp",
     "static/media/huyetap.webp": "/static/media/huyetap.12e1c9fba4c7d049389f.webp",
     "static/media/tiemcoduoi.png": "/static/media/tiemcoduoi.a651754e0ab8ac46c888.png",
     "static/media/HoHapNhanTao.png": "/static/media/HoHapNhanTao.f7f8bcf115c4fcf66f20.png",
@@ -38,8 +41,10 @@
     "static/media/danhgiatinhtrangdau.png": "/static/media/danhgiatinhtrangdau.ca682f52de463cc0a173.png",
     "static/media/phuchan.webp": "/static/media/phuchan.03a0dd908996e25b60c6.webp",
     "static/media/nhiptho.webp": "/static/media/nhiptho.6064623baa26991fc0e4.webp",
+    "static/media/5ThoiDiemRuaTay.png": "/static/media/5ThoiDiemRuaTay.01cd4dd43daeab36db7b.png",
     "static/media/BongGan.png": "/static/media/BongGan.9240fbe93c92978c677b.png",
     "static/media/bnkhotinh.webp": "/static/media/bnkhotinh.030afc35ef211445bdee.webp",
+    "static/media/RuaTay.jpg": "/static/media/RuaTay.80a074efd02536a86ab4.jpg",
     "static/media/xutribong.jpg": "/static/media/xutribong.04c3f890faf88124a633.jpg",
     "static/media/davang.webp": "/static/media/davang.19b4ba21a15bc2bd9c24.webp",
     "static/media/vttieminsulin.png": "/static/media/vttieminsulin.f9e104c469e5748beeaf.png",
@@ -59,6 +64,7 @@
     "static/media/loet3.png": "/static/media/loet3.559a686458993662e042.png",
     "static/media/loet4.png": "/static/media/loet4.80edb2f7f04e7ca0de3d.png",
     "static/media/PhanVe.jpg": "/static/media/PhanVe.1dda6736e6e8e485ce17.jpg",
+    "static/media/SoDoPhanLoaiChatThaiYTe.png": "/static/media/SoDoPhanLoaiChatThaiYTe.ce6e2928870b007a0d21.png",
     "static/media/PhongChay.jpg": "/static/media/PhongChay.3e8344b4658ff2e062fd.jpg",
     "static/media/quydinhylenh.png": "/static/media/quydinhylenh.1fc26f9e15f7dcaac761.png",
     "static/media/HuyetTuong.jpg": "/static/media/HuyetTuong.4f02b3af3ad8ba96c6ed.jpg",
@@ -79,11 +85,11 @@
     "static/media/GayXuong.webp": "/static/media/GayXuong.af5c8b979f8799e2bcfc.webp",
     "index.html": "/index.html",
     "main.4bc3d72c.css.map": "/static/css/main.4bc3d72c.css.map",
-    "main.573cd855.js.map": "/static/js/main.573cd855.js.map",
+    "main.74296c11.js.map": "/static/js/main.74296c11.js.map",
     "453.c29b2945.chunk.js.map": "/static/js/453.c29b2945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bc3d72c.css",
-    "static/js/main.573cd855.js"
+    "static/js/main.74296c11.js"
   ]
 }
