@@ -273,6 +273,36 @@ const SideBar = ({ openSideBar }) => {
         },
       ],
     },
+    {
+      title: "Chuyên đề VI: Kiểm soát nhiểm khuẩn",
+      id: "section6",
+      children: [
+        {
+          title: "1. Quy trình vệ sinh tay",
+          id: "section6-1",
+        },
+        {
+          title: "2. 5 thời điểm cần vệ sinh tay",
+          id: "section6-2",
+        },
+        {
+          title: "3. Phân loại chất thải Y tế",
+          id: "section6-3",
+        },
+        {
+          title: "4. Bảng phân loại chất thải Y tế",
+          id: "section6-4",
+        },
+        {
+          title: "5. Nhiễm khuẩn bệnh viện",
+          id: "section6-5",
+        },
+        {
+          title: "6. Tiệt khuẩn - khử khuẩn",
+          id: "section6-6",
+        },
+      ],
+    },
   ];
   // Filter function for search
   const filterMenu = (items) => {

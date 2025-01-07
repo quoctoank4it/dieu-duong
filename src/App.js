@@ -80,6 +80,13 @@ import E8_LayNuocTieu from "./Components/ChuyenDe5/E8_LayNuocTieu";
 import E9_HuyetHoc from "./Components/ChuyenDe5/E9_HuyetHoc";
 import E10_XetNghiemSinhHoa from "./Components/ChuyenDe5/E10_XetNghiemSinhHoa";
 import E11_ChuYLayMau from "./Components/ChuyenDe5/E11_ChuYLayMau";
+import F0_KiemSoatNhiemKhuan from "./Components/ChuyenDe6/F0_KiemSoatNhiemKhuan";
+import F1_QuyTrinhVST from "./Components/ChuyenDe6/F1_QuyTrinhVST";
+import F2_5ThoiDiemCanVST from "./Components/ChuyenDe6/F2_5ThoiDiemCanVST";
+import F3_PhanLoaiCTYT from "./Components/ChuyenDe6/F3_PhanLoaiCTYT";
+import F4_BangPhanLoaiCTYT from "./Components/ChuyenDe6/F4_BangPhanLoaiCTYT";
+import F5_NhiemKhuanBenhVien from "./Components/ChuyenDe6/F5_NhiemKhuanBenhVien";
+import F6_TietKhuan from "./Components/ChuyenDe6/F6_TietKhuan";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -207,6 +214,13 @@ const App = () => {
             <E9_HuyetHoc />
             <E10_XetNghiemSinhHoa />
             <E11_ChuYLayMau />
+            <F0_KiemSoatNhiemKhuan />
+            <F1_QuyTrinhVST />
+            <F2_5ThoiDiemCanVST />
+            <F3_PhanLoaiCTYT />
+            <F4_BangPhanLoaiCTYT />
+            <F5_NhiemKhuanBenhVien />
+            <F6_TietKhuan />
           </div>
         </div>
       </div>
