@@ -4,6 +4,7 @@ import LASA2_NhinGiongNhau_DocGiongNhau from "../Images/LASA2_NhinGiongNhau_DocG
 import LASA3_NhinGanGiongNhau_DocGanGiongNhau from "../Images/LASA3_NhinGanGiongNhau_DocGanGiongNhau.png";
 import LASA4_NhinKhacNhau_DocGanGiongNhau from "../Images/LASA4_NhinKhacNhau_DocGanGiongNhau.png";
 import LASA5_NhinKhacNhau_DocGiongNhau from "../Images/LASA5_NhinKhacNhau_DocGiongNhau.png";
+import CacThuocDeNhamLan from "../Images/CacThuocDeNhamLan.png";
 
 const G6_DanhThuocLASA = ({}) => {
   return (
@@ -45,7 +46,13 @@ const G6_DanhThuocLASA = ({}) => {
           style={{ marginBottom: 10 }}
           alt=""
         ></img>
-        {/* <h1>NHỮNG THUỐC ĐỌC GIỐNG NHAU</h1> */}
+        <h1>NHỮNG THUỐC ĐỌC GIỐNG NHAU</h1>
+        <img
+          src={CacThuocDeNhamLan}
+          width={"100%"}
+          style={{ marginBottom: 10 }}
+          alt=""
+        ></img>
       </div>
     </div>
   );
