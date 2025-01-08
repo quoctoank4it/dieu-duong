@@ -331,6 +331,36 @@ const SideBar = ({ openSideBar }) => {
         },
       ],
     },
+    {
+      title: "Chuyên đề VII: Sử dụng thuốc",
+      id: "section7",
+      children: [
+        {
+          title: "1. Quy định sử dụng thuốc của điều dưỡng",
+          id: "section7",
+        },
+        {
+          title: "2. Hướng dẫn sử dụng thuốc",
+          id: "section7-2",
+        },
+        {
+          title: "3. Hạn chế nhầm lẫn thuốc",
+          id: "section7-3",
+        },
+        {
+          title: "4. Cảnh báo 1 số nguy cơ sai sót trong sử dụng thuốc",
+          id: "section7-4",
+        },
+        {
+          title: "5. Quản lý thuốc có nguy cơ cao",
+          id: "section7-5",
+        },
+        {
+          title: "6. Danh mục thuốc LASA",
+          id: "section7-6",
+        },
+      ],
+    },
   ];
   // Filter function for search
   const filterMenu = (items) => {

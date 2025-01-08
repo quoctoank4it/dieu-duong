@@ -94,6 +94,12 @@ import F10_XuLyDungCu from "./Components/ChuyenDe6/F10_XuLyDungCu";
 import F11_KemChiuNhiet from "./Components/ChuyenDe6/F11_KemChiuNhiet";
 import F12_ChiuNhiet from "./Components/ChuyenDe6/F12_ChiuNhiet";
 import F13_HoaChat from "./Components/ChuyenDe6/F13_HoaChat";
+import G1_SuDungThuoc from "./Components/ChuyenDe7/G1_SuDungThuoc";
+import G2_HuongDanDungThuoc from "./Components/ChuyenDe7/G2_HuongDanDungThuoc";
+import G3_HanCheNhamLanThuoc from "./Components/ChuyenDe7/G3_HanCheNhamLanThuoc";
+import G4_CanhBao from "./Components/ChuyenDe7/G4_CanhBao";
+import G5_QuanLyThuoc from "./Components/ChuyenDe7/G5_QuanLyThuoc";
+import G6_DanhThuocLASA from "./Components/ChuyenDe7/G6_DanhThuocLASA";
 
 const App = () => {
   const [isOpenSideBar, setIsOpenSideBar] = useState(false);
@@ -235,6 +241,12 @@ const App = () => {
             <F11_KemChiuNhiet />
             <F12_ChiuNhiet />
             <F13_HoaChat />
+            <G1_SuDungThuoc />
+            <G2_HuongDanDungThuoc />
+            <G3_HanCheNhamLanThuoc />
+            <G4_CanhBao />
+            <G5_QuanLyThuoc />
+            <G6_DanhThuocLASA />
           </div>
         </div>
       </div>

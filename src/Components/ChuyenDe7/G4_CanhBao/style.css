@@ -1,0 +1,33 @@
+h2 {
+  text-align: left;
+  color: #d54101;
+  font-size: 18px;
+}
+
+.pulse-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.pulse-table thead th {
+  background-color: #3498db;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.pulse-table tbody td,
+.pulse-table thead th {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.pulse-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.pulse-table tbody tr:hover {
+  background-color: #eaeaea;
+}

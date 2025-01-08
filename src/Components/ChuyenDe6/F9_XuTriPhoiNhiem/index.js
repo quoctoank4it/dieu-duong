@@ -9,7 +9,7 @@ const F9_XuTriPhoiNhiem = ({}) => {
         <img
           src={XuTriPhoiNhiem}
           width={"100%"}
-          style={{ borderRadius: 10, marginBottom: 10 }}
+          style={{ marginBottom: 10 }}
           alt=""
         ></img>
       </div>

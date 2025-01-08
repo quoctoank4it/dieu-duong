@@ -210,7 +210,7 @@ const D18_0_PhanVe = ({}) => {
         <img
           src={PhanVe}
           width={"100%"}
-          style={{ borderRadius: 10, marginTop: 0, marginBottom: 10 }}
+          style={{ marginTop: 0, marginBottom: 10 }}
           alt=""
         ></img>
         <img

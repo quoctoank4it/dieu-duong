@@ -12,7 +12,7 @@ const F4_BangPhanLoaiCTYT = ({}) => {
         <img
           src={BangPhanLoaiRacYTe}
           width={"100%"}
-          style={{ borderRadius: 10, marginBottom: 10, marginTop: 20 }}
+          style={{ marginBottom: 10, marginTop: 20 }}
           alt=""
         ></img>
       </div>
