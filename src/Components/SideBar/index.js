@@ -317,6 +317,18 @@ const SideBar = ({ openSideBar }) => {
           title: "10. Quy trình xử lý dụng cụ tại các khoa phòng",
           id: "section6-10",
         },
+        {
+          title: "11. Quy trình khử khuẩn dụng cụ kém chịu nhiệt",
+          id: "section6-11",
+        },
+        {
+          title: "12. Quy trình tiệt khuẩn dụng cụ chịu nhiệt",
+          id: "section6-12",
+        },
+        {
+          title: "13. Quy trình khử khuẩn bằng hóa chất",
+          id: "section6-13",
+        },
       ],
     },
   ];
