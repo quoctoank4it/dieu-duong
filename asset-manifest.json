@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4bc3d72c.css",
-    "main.js": "/static/js/main.16571982.js",
+    "main.js": "/static/js/main.c6609849.js",
     "static/js/453.c29b2945.chunk.js": "/static/js/453.c29b2945.chunk.js",
     "static/media/cachveodatieminsulin.png": "/static/media/cachveodatieminsulin.d230bc841f45f80640c4.png",
     "static/media/ConTrungCan.png": "/static/media/ConTrungCan.773b774e1fff764bd943.png",
@@ -15,6 +15,7 @@
     "static/media/phauthuat.webp": "/static/media/phauthuat.56ad8c28e12acc9e68e9.webp",
     "static/media/dundayviec.webp": "/static/media/dundayviec.4e0d763cf4b82614e293.webp",
     "static/media/chidinhdieutrikhongrorang.webp": "/static/media/chidinhdieutrikhongrorang.eddf7c5f3fa00f16420a.webp",
+    "static/media/HoaChat.png": "/static/media/HoaChat.9ef4f6e6fa2ec5d088c4.png",
     "static/media/KiemSoatNhiemKhuan2.webp": "/static/media/KiemSoatNhiemKhuan2.f1bda94a9e948a7f72d4.webp",
     "static/media/capcuukhancap.webp": "/static/media/capcuukhancap.90f189206abcc5beb403.webp",
     "static/media/vitriloet.png": "/static/media/vitriloet.0416c711f6b77ee6a403.png",
@@ -69,6 +70,8 @@
     "static/media/SoDoPhanLoaiChatThaiYTe.png": "/static/media/SoDoPhanLoaiChatThaiYTe.ce6e2928870b007a0d21.png",
     "static/media/PhongChay.jpg": "/static/media/PhongChay.3e8344b4658ff2e062fd.jpg",
     "static/media/quydinhylenh.png": "/static/media/quydinhylenh.1fc26f9e15f7dcaac761.png",
+    "static/media/DungKuKemChieuNhiet.png": "/static/media/DungKuKemChieuNhiet.9e4b569cf39e77fe690b.png",
+    "static/media/DungCuChiuNhiet.png": "/static/media/DungCuChiuNhiet.287be391e7c4d55af16a.png",
     "static/media/HuyetTuong.jpg": "/static/media/HuyetTuong.4f02b3af3ad8ba96c6ed.jpg",
     "static/media/XuLyDungCu.png": "/static/media/XuLyDungCu.a126fec4bd2e4b41bb32.png",
     "static/media/danoimeday.jpg": "/static/media/danoimeday.7cd23eee7b63afe8e932.jpg",
@@ -88,11 +91,11 @@
     "static/media/GayXuong.webp": "/static/media/GayXuong.af5c8b979f8799e2bcfc.webp",
     "index.html": "/index.html",
     "main.4bc3d72c.css.map": "/static/css/main.4bc3d72c.css.map",
-    "main.16571982.js.map": "/static/js/main.16571982.js.map",
+    "main.c6609849.js.map": "/static/js/main.c6609849.js.map",
     "453.c29b2945.chunk.js.map": "/static/js/453.c29b2945.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4bc3d72c.css",
-    "static/js/main.16571982.js"
+    "static/js/main.c6609849.js"
   ]
 }
