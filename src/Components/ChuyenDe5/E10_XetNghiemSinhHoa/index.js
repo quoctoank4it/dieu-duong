@@ -3,7 +3,7 @@ import "./style.css";
 const E10_XetNghiemSinhHoa = ({}) => {
   return (
     <div id="section5-10" className="section">
-      <div className="container">
+      <div className="container" style={{ overflowX: "auto" }}>
         <h2>10. Ý NGHĨA MỘT SỐ CHỈ SỐ XÉT NGHIỆM SINH HÓA</h2>
         <table>
           <thead>

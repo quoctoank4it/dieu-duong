@@ -4,7 +4,7 @@ import NhipTho from "../Images/nhiptho.webp";
 const A1_4_NhipTho = ({}) => {
   return (
     <div id="section1-1-4" className="section">
-      <div className="container">
+      <div className="container" style={{ overflowX: "auto" }}>
         <h2>1.4. NHỊP THỞ</h2>
         <table className="pulse-table">
           <thead>
