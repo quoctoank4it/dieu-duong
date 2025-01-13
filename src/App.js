@@ -225,7 +225,7 @@ const App = () => {
             <E7_HeABO />
             <E8_LayNuocTieu />
             <E9_HuyetHoc />
-            <E10_XetNghiemSinhHoa />
+            {/* <E10_XetNghiemSinhHoa /> */}
             <E11_ChuYLayMau />
             <F0_KiemSoatNhiemKhuan />
             <F1_QuyTrinhVST />
