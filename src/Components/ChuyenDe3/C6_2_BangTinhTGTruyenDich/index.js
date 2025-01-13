@@ -3,7 +3,7 @@ import "./style.css";
 const C6_2_BangTinhTGTruyenDich = ({}) => {
   return (
     <div id="section3-6-2" className="section">
-      <div className="container">
+      <div className="container" style={{ overflowX: "auto" }}>
         <h2>6.2. BẢNG TÍNH THỜI GIAN DỊCH TRUYỀN HAY DÙNG</h2>
         <table style={{ fontSize: 12 }}>
           <tr>
