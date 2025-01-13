@@ -5,7 +5,7 @@ import ViTriDoHuyetApp from "../Images/vitridohuyetap.jpg";
 const A1_3_HuyetAp = ({}) => {
   return (
     <div id="section1-1-3" className="section">
-      <div className="container">
+      <div className="container" style={{ overflowX: "auto" }}>
         <h2>1.3. HUYẾT ÁP (mmHg)</h2>
         <div
           style={{
